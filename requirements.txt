@@ -1,0 +1,11 @@
+pandas
+matplotlib
+seaborn
+streamlit
+openai-whisper
+gTTS
+scikit-learn
+numpy
+altair
+plotly
+Added requirements.txt for dependency management
