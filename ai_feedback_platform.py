@@ -67,7 +67,7 @@ print("🎧 Audio feedback generated and saved.")
 We'll transcribe the generated audio files into text using OpenAI's Whisper model.
 """
 
-!pip install -q git+https://github.com/openai/whisper.git
+#!pip install -q git+https://github.com/openai/whisper.git
 !sudo apt update && sudo apt install -y ffmpeg
 
 import whisper
