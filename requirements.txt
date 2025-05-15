@@ -8,4 +8,4 @@ scikit-learn
 numpy
 altair
 plotly
-Added requirements.txt for dependency management
+
